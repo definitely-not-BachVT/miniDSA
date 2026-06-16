@@ -1,0 +1,1 @@
+Chỉ chứa các code nhanh và dễ làm nhất để làm bài, chưa có các code theo thuật toán thông thường.
