@@ -1,1 +1,1 @@
-Link contest tại Codeforces: 
+Link Group tại Codeforces: https://codeforces.com/group/yIBktKyKfB/contests 

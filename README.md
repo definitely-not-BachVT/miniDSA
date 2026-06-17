@@ -64,6 +64,6 @@ Bạn có thể đóng góp vào repo này theo cách trên
 ## Một số nguồn tài liệu khác 
 
 - CodePTIT, SPOJ, Codeforces
-- [Contest đợt miniDSA này](https://codeforces.com/group/yIBktKyKfB/contests)
+- [Contest đợt miniDSA này (các bài được nói trong record)](https://codeforces.com/group/yIBktKyKfB/contests)
 - [Contest Codeforces của khóa trước](https://codeforces.com/group/TNf7raZKBu/contests)
 - Internet
