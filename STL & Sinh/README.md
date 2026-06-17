@@ -1,3 +1,5 @@
+**Record**: https://www.youtube.com/watch?v=38_XhTHayPw
+
 ## STL C++
 
 **STL** (Standard Template Library) là một thư viện chuẩn trong C++, cung cấp những cấu trúc dữ liệu, thuật toán, bộ lặp để giúp lập trình viên code nhanh và hiệu quả hơn

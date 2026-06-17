@@ -11,21 +11,25 @@ int main()
      int n, k;
      cin >> n >> k;
 
-     // cấu hình đầu: 123 => 11100 hay là cấu hình cuối của ....
-     // cấu hình cuối: 345 => 00111 hay là cấu hình cuối của ...
-
      vector<int> p(n, 0);
      for (int i = 0; i < k; ++i)
           p[i] = 1;
 
      do
      {
+          int tong = 0;
+
           for (int i = 0; i < n; ++i)
                if (p[i] == 1)
-                    cout << i + 1 << " ";
-          cout << "\n";
+                    tong += i + 1;
+
+          if (tong % 2)
+          {
+               for (int i = 0; i < n; ++i)
+                    if (p[i] == 1)
+                         cout << i + 1 << " ";
+               cout << "\n";
+          }
+
      } while (prev_permutation(p.begin(), p.end()));
 }
-
-// Copilot => Trường cấm không cho dùng. Phát bởi CodePTIT Client
-// Intellisense => Không bị cấm, dùng thôi

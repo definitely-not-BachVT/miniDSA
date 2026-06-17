@@ -5,7 +5,6 @@ vector<vector<string>> gray(11, vector<string>());
 void sinh()
 {
      gray[1] = {"0", "1"};
-
      for (int i = 2; i < 11; ++i)
      {
           int sz = pow(2, i - 1);
